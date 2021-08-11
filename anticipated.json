@@ -3,7 +3,7 @@
     "id": "mngo",
     "name": "Mango Token",
     "symbol": "MNGO",
-    "description": "MNGO tokens represent a direct stake in the Mango DAO. The future direction of the Mango Protocol will be decided by voting on proposals using MNGO tokens as the voting mechanism."
+    "description": "MNGO tokens represent a direct stake in the Mango DAO. The future direction of the Mango Protocol will be decided by voting on proposals using MNGO tokens as the voting mechanism.",
     "extensions": {
       "website": "https://mango.markets/",
       "twitter": "https://twitter.com/mangomarkets"
