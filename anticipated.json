@@ -16,6 +16,21 @@
     "logoURI": "https://token.mango.markets/logo.svg"
   },
   {
+    "id": "orca",
+    "name": "Orca Token",
+    "symbol": "ORCA",
+    "description": "Orca is the easiest place to exchange cryptocurrency on Solana.",
+    "extensions": {
+      "website": "https://orca.so",
+      "twitter": "https://twitter.com/orca_so"
+    },
+    "tags": [
+      "DeFi",
+      "DEX"
+    ],
+    "score": 75
+  },
+  {
     "id": "like",
     "name": "Only1",
     "symbol": "LIKE",
@@ -30,21 +45,5 @@
       "NFT"
     ],
     "score": 74
-  },
-  {
-    "id": "port",
-    "name": "Port Finance",
-    "symbol": "PORT",
-    "description": "Variable rate based on utilization: the interest rate curve for our token pool comprises of two linear segments: the latter one comes with a higher slope to incentivize more depositing. The exact parameters of the interest rate curve can be adjusted in the future.",
-    "extensions": {
-      "website": "https://port.finance/",
-      "twitter": "https://twitter.com/port_finance"
-    },
-    "score": 71,
-    "tags": [
-      "DeFi",
-      "Lending"
-    ],
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png"
   }
 ]
