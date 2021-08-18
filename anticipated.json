@@ -1,5 +1,22 @@
 [
   {
+    "id": "star-atlas",
+    "name": "Star Atlas",
+    "symbol": "ATLAS",
+    "description": "A grand strategy game of space exploration, territorial conquest, political domination, and more.",
+    "extensions": {
+      "website": "https://staratlas.com/",
+      "twitter": "https://twitter.com/staratlas"
+    },
+    "tags": [
+      "DeFi",
+      "Game",
+      "NFT"
+    ],
+    "score": 90,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11212.png"
+  },
+  {
     "id": "mngo",
     "name": "Mango Token",
     "symbol": "MNGO",
@@ -14,22 +31,6 @@
     ],
     "score": 88,
     "logoURI": "https://token.mango.markets/logo.svg"
-  },
-  {
-    "id": "orca",
-    "name": "Orca Token",
-    "symbol": "ORCA",
-    "description": "Orca is the easiest place to exchange cryptocurrency on Solana.",
-    "extensions": {
-      "website": "https://orca.so",
-      "twitter": "https://twitter.com/orca_so"
-    },
-    "tags": [
-      "DeFi",
-      "DEX"
-    ],
-    "score": 75,
-    "trade":"https://swap.symmetry.fi/?p=ORCA"
   },
   {
     "id": "like",
