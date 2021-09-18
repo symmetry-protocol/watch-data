@@ -1,5 +1,22 @@
 [
   {
+    "id": "prt",
+    "name": "Parrot Finance",
+    "symbol": "PRT",
+    "description": "Make LP Tokens Liquid Again!",
+    "extensions": {
+      "website": "https://parrot.fi/",
+      "twitter": "https://twitter.com/gopartyparrot"
+    },
+    "tags": [
+      "DeFi",
+      "Lending/Borrowing",
+      "LP"
+    ],
+    "score": 95,
+    "logoURI": "https://i.imgur.com/m3ejuhk.jpeg"
+  },
+  {
     "id": "star-atlas",
     "name": "Star Atlas",
     "symbol": "ATLAS",
@@ -31,21 +48,5 @@
     ],
     "score": 88,
     "logoURI": "https://token.mango.markets/logo.svg"
-  },
-  {
-    "id": "like",
-    "name": "Only1",
-    "symbol": "LIKE",
-    "description": "Only1 is the first NFT-powered social platform built on the Solana blockchain. Mixing social media, an NFT marketplace, a scalable blockchain, and the native token — $LIKE, Only1 offers fans a unique way of connecting with the creators they love.",
-    "extensions": {
-      "website": "https://only1.io",
-      "twitter": "https://twitter.com/only1nft"
-    },
-    "tags": [
-      "DeFi",
-      "Social",
-      "NFT"
-    ],
-    "score": 85
   }
 ]
